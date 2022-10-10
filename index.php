@@ -51,7 +51,7 @@
        </div>
        <div id="main">
          <!-- header section start -->
-         <div class="header_section" style="background-color: rgba(0, 0, 0, 0.9);">
+         <div class="header_section" style="background-color:#43FC0C;">
           <div class="container-fluid">
             <div class="row"->
                <div class="col-sm-4">
